@@ -1,9 +1,9 @@
 #!/bin/bash
 
 ################################################################################
-# FUNCTIONAL ANNOTATION PIPELINE - User-Friendly Wrapper
+# FunPipe - User-Friendly Wrapper
 # 
-# Purpose: Automated functional annotation of BRAKER GFF3 with protein and 
+# Purpose: Automated functional annotation of GFF3 with protein and 
 #          domain information from UniProt and Pfam
 #
 # Usage: ./annotate.sh -g BRAKER.GFF3 -f GENOME.FASTA [OPTIONS]
